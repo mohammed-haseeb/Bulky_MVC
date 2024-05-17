@@ -1,7 +1,7 @@
 <h3>Bulky MVC is an E-Commerce website based on ASP.NET Core MVC Framework.</h3>
 <br>
 
-This project is from a course by Bhrugen Patel on Udemy.
+This project is from a course by Bhrugen Patel on <a href="https://www.udemy.com/course/complete-aspnet-core-21-course/">Udemy</a>.
 <br>
 
 Objectives:
