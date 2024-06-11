@@ -12,4 +12,4 @@ Objectives:
 </ul>
 	
 <br>
-Note: The project is in-progress for now.
+Note: The project is on-hold for now.
